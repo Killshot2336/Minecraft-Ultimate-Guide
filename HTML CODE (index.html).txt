@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minecraft Ultimate Guide</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="home">
+    <h1>Minecraft Ultimate Guide</h1>
+    <nav>
+      <ul>
+        <li><a href="#news">News</a></li>
+        <li><a href="#building">Building Guides</a></li>
+        <li><a href="#crafting">Crafting Recipes</a></li>
+        <li><a href="#items">Item Guide</a></li>
+        <li><a href="#mobs">Mob Guide</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <section id="news">
+    <h2>Minecraft News</h2>
+    <p>Latest updates and news about Minecraft.</p>
+    <p>Here you can find the latest updates about Minecraft and what’s coming next!</p>
+  </section>
+
+  <section id="building">
+    <h2>Building Guides</h2>
+    <p>Step-by-step guides for cool builds.</p>
+    <h3>Redstone Door</h3>
+    <img src="https://via.placeholder.com/300x200" alt="Redstone Door" width="300">
+    <p>Step-by-step guide to creating a redstone-powered door.</p>
+  </section>
+
+  <section id="crafting">
+    <h2>Crafting Recipes</h2>
+    <p>All crafting and brewing recipes.</p>
+    <h3>Crafting Table</h3>
+    <p>Craft a table using 4 wood planks. This allows you to craft more advanced items!</p>
+  </section>
+
+  <section id="items">
+    <h2>Item Guide</h2>
+    <p>All Minecraft items, their uses, and how to get them.</p>
+    <h3>Sword</h3>
+    <img src="https://via.placeholder.com/100x100" alt="Minecraft Sword" width="100">
+    <p>A sword is used to defend against mobs and players. You can craft a sword using 2 sticks and 3 iron ingots.</p>
+  </section>
+
+  <section id="mobs">
+    <h2>Mob Guide</h2>
+    <p>All mobs in Minecraft, including their stats and spawn locations.</p>
+    <h3>Zombie</h3>
+    <img src="https://via.placeholder.com/100x100" alt="Zombie" width="100">
+    <p>Health: 20 HP<br>Damage: 2-7</p>
+  </section>
+
+  <footer>
+    <p>Created by Your Name</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minecraft Ultimate Guide</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="home">
+    <h1>Minecraft Ultimate Guide</h1>
+    <nav>
+      <ul>
+        <li><a href="#news">News</a></li>
+        <li><a href="#building">Building Guides</a></li>
+        <li><a href="#crafting">Crafting Recipes</a></li>
+        <li><a href="#items">Item Guide</a></li>
+        <li><a href="#mobs">Mob Guide</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <section id="news">
+    <h2>Minecraft News</h2>
+    <p>Latest updates and news about Minecraft.</p>
+    <p>Here you can find the latest updates about Minecraft and what’s coming next!</p>
+  </section>
+
+  <section id="building">
+    <h2>Building Guides</h2>
+    <p>Step-by-step guides for cool builds.</p>
+    <h3>Redstone Door</h3>
+    <img src="https://via.placeholder.com/300x200" alt="Redstone Door" width="300">
+    <p>Step-by-step guide to creating a redstone-powered door.</p>
+  </section>
+
+  <section id="crafting">
+    <h2>Crafting Recipes</h2>
+    <p>All crafting and brewing recipes.</p>
+    <h3>Crafting Table</h3>
+    <p>Craft a table using 4 wood planks. This allows you to craft more advanced items!</p>
+  </section>
+
+  <section id="items">
+    <h2>Item Guide</h2>
+    <p>All Minecraft items, their uses, and how to get them.</p>
+    <h3>Sword</h3>
+    <img src="https://via.placeholder.com/100x100" alt="Minecraft Sword" width="100">
+    <p>A sword is used to defend against mobs and players. You can craft a sword using 2 sticks and 3 iron ingots.</p>
+  </section>
+
+  <section id="mobs">
+    <h2>Mob Guide</h2>
+    <p>All mobs in Minecraft, including their stats and spawn locations.</p>
+    <h3>Zombie</h3>
+    <img src="https://via.placeholder.com/100x100" alt="Zombie" width="100">
+    <p>Health: 20 HP<br>Damage: 2-7</p>
+  </section>
+
+  <footer>
+    <p>Created by Your Name</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
